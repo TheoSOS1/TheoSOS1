@@ -12,5 +12,5 @@
 
 ## Tecnologias que mais utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,git,js,react,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,git,js,nodejs,react,java,mysql)](https://skillicons.dev)
           
