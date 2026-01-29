@@ -8,7 +8,7 @@
 ---
 
 ## Minhas estatísticas
-![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=TheoSOS1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=TheoSOS1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
 
 ## Tecnologias que mais utilizo
 
