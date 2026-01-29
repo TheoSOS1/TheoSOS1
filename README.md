@@ -1,4 +1,4 @@
-## Olá, eu sou o aluno Theo 👋
+## Olá, eu sou o Theo 👋
 
 - 🔭 Atualmente estou cursando um curso técnico em Desenvolvimento de Sistemas a partir do Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS) campus Poços de Caldas.
 - 🌱 Recentemente estudando Flexbox a partir do React Native.
@@ -8,4 +8,9 @@
 ---
 
 ## Minhas estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoSOS1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Minhas Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=TheoSOS1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+## Tecnologias que mais utilizo
+
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,git,js,react,java,mysql)](https://skillicons.dev)
+          
