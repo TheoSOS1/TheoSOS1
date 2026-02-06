@@ -24,7 +24,7 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/__theodesouza" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
