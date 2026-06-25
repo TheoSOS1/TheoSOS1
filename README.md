@@ -22,14 +22,14 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🧠 [DUÁ - Sistema de Gestão Clínica](https://github.com/TheoSOS1) *(Repositório Privado)*
+### 🧠 [DUÁ - Sistema de Gestão Clínica] *(Repositório Privado)*
 > Ecossistema multiplataforma (**Desktop, Web e Mobile**) focado na otimização de fluxos administrativos e organização interna para clínicas de Psicologia.
 
 * **O Desafio:** Criar uma experiência unificada, intuitiva e segura para o gerenciamento de pacientes, agendamentos e sessões acessível de qualquer dispositivo.
 * **Stack Tecnológica:** `Java` • `JavaFX` • `MySQL` • `HTML/CSS`
 * **Destaques:** Aplicação de Orientação a Objetos (POO), modelagem relacional robusta e integração de múltiplas interfaces (móveis e desktop) em um mesmo ecossistema clínico.
 
-### 🎮 [PWA Gamificado - Grupo de Estudos](https://github.com/TheoSOS1) 
+### 🎮 [PWA Gamificado - Grupo de Estudos]([https://github.com/TheoSOS1](https://github.com/TheoSOS1/Projeto-Call-of-Study.git)) 
 > Aplicação Web Progressiva (PWA) *mobile-first* com sistema de gamificação focado em engajamento estudantil.
 
 * **O Desafio:** Criar uma lógica justa de pontuação baseada em multiplicadores de fadiga e facilidade por disciplina para equilibrar o desempenho dos integrantes do grupo.
