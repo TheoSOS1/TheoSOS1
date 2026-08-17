@@ -12,11 +12,11 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando o Técnico em **Desenvolvimento de Sistemas** no **IFSULDEMINAS** (Campus Poços de Caldas).
-- 🌱 Me aprofundando no ecossistema **Mobile** (com foco em *React Native* e *Flexbox*) e no desenvolvimento de aplicações robustas com **Java**.
+- 🎓 Conluí o Curso Técnico em **Desenvolvimento de Sistemas** no **IFSULDEMINAS** (Campus Poços de Caldas).
+- 🌱 Me aprofundando no ecossistema **Mobile** (com foco em *React Native*) e no desenvolvimento de aplicações robustas com **Java**.
 - 💡 Entusiasta de **Sistemas Operacionais** (usuário ativo do ecossistema Linux) e **Redes de Computadores**.
 - 🤝 Em busca de projetos *Open-Source* para colaborar, trocar conhecimentos e aplicar boas práticas de engenharia de software.
-- 🎯 **Minha abordagem:** Código limpo, foco em usabilidade e entender a fundo o *porquê* por trás de cada tecnologia.
+- 🎯 **Minha abordagem:** Código limpo, foco em usabilidade e desenvolvimento com IA.
 
 ---
 
@@ -26,7 +26,7 @@
 > Ecossistema multiplataforma (**Desktop, Web e Mobile**) focado na otimização de fluxos administrativos e organização interna para clínicas de Psicologia.
 
 * **O Desafio:** Criar uma experiência unificada, intuitiva e segura para o gerenciamento de pacientes, agendamentos e sessões acessível de qualquer dispositivo.
-* **Stack Tecnológica:** `Java` • `JavaFX` • `MySQL` • `HTML/CSS`
+* **Stack Tecnológica:** `Java` • `JavaFX` • `Back4App` • `HTML/CSS`
 * **Destaques:** Aplicação de Orientação a Objetos (POO), modelagem relacional robusta e integração de múltiplas interfaces (móveis e desktop) em um mesmo ecossistema clínico.
 
 ### 🎮 [PWA Gamificado - Grupo de Estudos]([https://github.com/TheoSOS1](https://github.com/TheoSOS1/Projeto-Call-of-Study.git)) 
